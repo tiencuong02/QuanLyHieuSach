@@ -1,0 +1,16 @@
+D:\QuanLyHieuSach\QuanLyHieuSach\bin\Debug\net8.0-windows\QuanLyHieuSach.exe
+D:\QuanLyHieuSach\QuanLyHieuSach\bin\Debug\net8.0-windows\QuanLyHieuSach.deps.json
+D:\QuanLyHieuSach\QuanLyHieuSach\bin\Debug\net8.0-windows\QuanLyHieuSach.runtimeconfig.json
+D:\QuanLyHieuSach\QuanLyHieuSach\bin\Debug\net8.0-windows\QuanLyHieuSach.dll
+D:\QuanLyHieuSach\QuanLyHieuSach\bin\Debug\net8.0-windows\QuanLyHieuSach.pdb
+D:\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\net8.0-windows\QuanLyHieuSach.Form1.resources
+D:\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\net8.0-windows\QuanLyHieuSach.csproj.GenerateResource.cache
+D:\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\net8.0-windows\QuanLyHieuSach.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\net8.0-windows\QuanLyHieuSach.AssemblyInfoInputs.cache
+D:\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\net8.0-windows\QuanLyHieuSach.AssemblyInfo.cs
+D:\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\net8.0-windows\QuanLyHieuSach.csproj.CoreCompileInputs.cache
+D:\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\net8.0-windows\QuanLyHieuSach.dll
+D:\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\net8.0-windows\refint\QuanLyHieuSach.dll
+D:\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\net8.0-windows\QuanLyHieuSach.pdb
+D:\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\net8.0-windows\QuanLyHieuSach.genruntimeconfig.cache
+D:\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\net8.0-windows\ref\QuanLyHieuSach.dll
